@@ -71,20 +71,14 @@ The dashboard provides an interactive, data-driven view of key business metrics 
 - Strengthened understanding of **data storytelling** and **business intelligence reporting**.  
 - Gained insights into **retail and restaurant analytics**.  
 
----
-
-
-## 🔗 Project Links
-- 📂 **GitHub Repository:** https://github.com/Vijaypatani47/Pizza-Sales-Analysis-Dashboard-Power-BI-  
-- 💼 **LinkedIn Post:** https://www.linkedin.com/posts/vijaydataanalyst_pizza-sales-analysis-dashboard-activity-7385557155799674880-Nedb?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFvhbb4BzMq3j-o_AQ7Ut6ke3BwSdnZ2wzY)  
 
 ---
 
 ### 👨‍💻 Author
-**Vijay Patani**  
+**Parth Bhagat**  
 _Data Analyst Intern at Unified Mentor_  
-📧 vijayraval6770@gmail.com  
-🌐 https://www.linkedin.com/in/vijaydataanalyst?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BZ4HJhiXySkyfb%2FBd4gm3Hw%3D%3D
+📧 parthpbhagat@gmail.com 
+🌐 https://www.linkedin.com/in/parth-p-bhagat-203162369/
 
 ---
 
